@@ -1,5 +1,6 @@
-# MeliAjna
-BMLD Python Projekt
+# Leistungsnachweis 2
+Gruppe: Ajna Aliji & Melisa Dedukic
 
-Thema: Child mortality rate
-Gruppe: Ajna Aliji und Melisa Dedukic 
+# Child mortality 
+
+Fragestellungen:
