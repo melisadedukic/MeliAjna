@@ -1,3 +1,5 @@
 # MeliAjna
 BMLD Python Projekt
-HalloAjnaTest
+
+Thema: Child mortality rate
+Gruppe: Ajna Aliji und Melisa Dedukic 
