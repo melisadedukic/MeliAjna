@@ -10,5 +10,3 @@ Fragestellungen:
 4. Bei welchen Ländern, stagniert bzw. Steigt die Kindersterblichkeitrate?
 5. Welche Regionen zeigen den grössten Rückgang in der Kindersterblichkeits?
 6. Wie unterscheiden sich die Kindersterblichkeitsraten zwischen städtischen und ländlichen Rgionen?
-7. Welche Altersgruppe, z.B. Neugeborene, Kinder unter 5 Jahren, ist am stärksten von der Kindersterblichkeit betroffen?
-8. Gibt es Unterschiede in der Kindersterblichkeit zwischen Jungen und Mädchen?
