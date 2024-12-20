@@ -1,0 +1,36 @@
+{
+  "chart": {
+    "title": "Number of child deaths by region",
+    "subtitle": "The estimated number of children under five years old who die each year.",
+    "citation": "Multiple sources compiled by World Bank (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/child-deaths-igme-data?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Sub-Saharan Africa (WB)",
+      "South Asia (WB)",
+      "East Asia and Pacific (WB)",
+      "Middle East and North Africa (WB)",
+      "Latin America and Caribbean (WB)",
+      "Europe and Central Asia (WB)",
+      "North America (WB)"
+    ]
+  },
+  "columns": {
+    "Number of under-five deaths": {
+      "titleShort": "Number of under-five deaths",
+      "titleLong": "Number of under-five deaths",
+      "descriptionKey": [],
+      "unit": "",
+      "timespan": "1960-2021",
+      "type": "Integer",
+      "owidVariableId": 905765,
+      "shortName": "sh_dth_mort",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data",
+      "citationLong": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data. “Number of under-five deaths” [dataset]. UN Inter-agency Group for Child Mortality Estimation (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905765.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-20",
+  "activeFilters": {}
+}
