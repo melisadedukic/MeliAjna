@@ -1,4 +1,4 @@
-#Fragestellungen
+# Fragestellungen
 1. Wie hat sich die Kindersterblichkeitsrate weltweit über die Jahrzehnte entwickelt?
 2. Welche Länder haben derzeit die höchste bzw. niedrigste Kindersterblichkeitsrate?
 3. Wie unterscheiden sich die Kindersterblichkeitsraten zwischen einkommensstarken und einkommensschwachen Ländern? 
